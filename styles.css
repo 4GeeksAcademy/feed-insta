@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    text-shadow:black 3px 3px 5px
+}
+.container{
+text-align: center;
+padding: 10px;
+display: block;
+justify-content: center;
+}
+.container header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200px;
+} 
+.caja{
+    text-align: center;
+    display: inline-block;
+    width: 1178px;
+    height: auto;
+    padding right: 100px;
+    box-shadow:
+}
+.img {
+    width: 10px;
+    height: 200px;
+    columns: 100%;
+    padding: top 50px;right: 50px;
+    overflow:content-box;
+}
+.caja-header{
+    background-color: aqua;
+    display: flex;
+    box-sizing: border-box;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    justify-content: space-between;
+    width: 1178px;
+    height: 80px;
+    margin-left: 2px;
+    padding: 10px;
+    padding-top: 20px;
+
+}
+.caja-footer{
+    text-align: center;
+    justify-content: center;
+    color:black;
+    font-size: 30px;
+    padding-left: 30px;
+    
+    }
